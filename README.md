@@ -4,17 +4,20 @@
 
 使用方法：
 
-#一、
+一、
 克隆项目到任意文件夹（不推荐使用中文名）；
 Clone the project to any folder (it’s not recommended to use Chinese folder names);
-#二、
+
+二、
 CMD命令行下进入项目所在文件夹，运行install.bat安装所需要的依赖；
 Navigate to the project directory in CMD (Command Prompt) and run install.bat to install the required dependencies as requirements.txt list;
-#三、
+
+三、
 在项目所在文件夹下，CMD运行如下命令：
 In the project directory, run the following command in CMD:
 python app.py
-#四、
+
+四、
 如一切正常，可以在如下地址查看运行效果：
 If everything runs successfully, you can view the result at:
 http://127.0.0.1:5000
